@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333348896163",
+    "project_id": "zipgocabs"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333348896163:android:1d65a1e338ae287b",
+        "android_client_info": {
+          "package_name": "vinith.com.zipgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333348896163-rnscfoofr2pi0ulf56kll4r2g1rhtmom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vinith.com.zipgo",
+            "certificate_hash": "74FE13B4B8C5172336485570A2A42846DD8B1FC6"
+          }
+        },
+        {
+          "client_id": "333348896163-fbp76eht7f4f3f8ekqs6jlplc3g743s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0HfkNQc_tIOGQ8Tcdk2EZJGatWF2El7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
